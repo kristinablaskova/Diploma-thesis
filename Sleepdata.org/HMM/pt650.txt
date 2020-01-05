@@ -1,0 +1,450 @@
+             precision    recall  f1-score   support
+
+    NonREM1       0.09      0.06      0.07        16
+    NonREM2       0.61      0.33      0.43       480
+    NonREM3       0.33      0.97      0.49       173
+        REM       0.82      0.10      0.18        89
+       Wake       0.85      0.71      0.77       230
+
+avg/total       0.63      0.51      0.49       988
+             precision    recall  f1-score   support
+
+    NonREM1       0.20      0.53      0.29        32
+    NonREM2       0.70      0.58      0.63       506
+    NonREM3       0.36      0.88      0.51       111
+        REM       0.82      0.22      0.34       125
+       Wake       0.79      0.69      0.74       310
+
+avg/total       0.69      0.60      0.61      1084
+             precision    recall  f1-score   support
+
+    NonREM1       0.09      0.76      0.17        38
+    NonREM2       0.95      0.49      0.65       371
+    NonREM3       0.55      0.97      0.70       153
+        REM       1.00      0.03      0.06       195
+       Wake       0.80      0.69      0.74       154
+
+avg/total       0.83      0.52      0.53       911
+             precision    recall  f1-score   support
+
+    NonREM1       0.10      0.60      0.18        55
+    NonREM2       0.94      0.56      0.70       639
+    NonREM3       0.00      0.00      0.00         2
+        REM       0.70      0.05      0.09       146
+       Wake       0.59      0.91      0.72       143
+
+avg/total       0.80      0.54      0.58       985
+             precision    recall  f1-score   support
+
+    NonREM1       0.60      0.22      0.32        27
+    NonREM2       0.68      0.40      0.50       268
+    NonREM3       0.50      0.99      0.67       202
+        REM       0.86      0.58      0.69       132
+       Wake       0.89      0.76      0.82       174
+
+avg/total       0.71      0.65      0.64       803
+             precision    recall  f1-score   support
+
+    NonREM1       0.48      0.41      0.44        99
+    NonREM2       0.87      0.58      0.69       277
+    NonREM3       0.84      0.99      0.91       153
+        REM       0.36      0.95      0.52       131
+       Wake       0.95      0.52      0.67       299
+
+avg/total       0.78      0.66      0.67       959
+             precision    recall  f1-score   support
+
+    NonREM1       0.09      0.67      0.16        15
+    NonREM2       0.92      0.60      0.73       367
+    NonREM3       0.40      0.99      0.57        81
+        REM       0.72      0.88      0.79       144
+       Wake       0.94      0.38      0.54       202
+
+avg/total       0.82      0.64      0.67       809
+             precision    recall  f1-score   support
+
+    NonREM1       0.28      0.48      0.35        25
+    NonREM2       0.54      0.20      0.29       427
+    NonREM3       0.35      0.97      0.52       227
+        REM       1.00      0.30      0.47       181
+       Wake       0.69      0.54      0.60        99
+
+avg/total       0.59      0.44      0.41       959
+             precision    recall  f1-score   support
+
+    NonREM1       0.17      0.83      0.28        24
+    NonREM2       0.85      0.74      0.79       444
+    NonREM3       0.51      0.91      0.65       159
+        REM       1.00      0.01      0.02       192
+       Wake       0.85      0.95      0.89       250
+
+avg/total       0.81      0.68      0.64      1069
+             precision    recall  f1-score   support
+
+    NonREM1       0.15      0.91      0.26        67
+    NonREM2       0.02      0.01      0.01       208
+    NonREM3       0.00      0.00      0.00       199
+        REM       0.20      0.87      0.32        68
+       Wake       0.98      0.41      0.58       477
+
+avg/total       0.49      0.31      0.31      1019
+             precision    recall  f1-score   support
+
+    NonREM1       0.20      0.75      0.32        12
+    NonREM2       0.95      0.39      0.56       446
+    NonREM3       0.56      0.96      0.71       169
+        REM       0.56      0.91      0.70       162
+       Wake       0.65      0.74      0.69        50
+
+avg/total       0.77      0.63      0.62       839
+             precision    recall  f1-score   support
+
+    NonREM1       0.15      0.75      0.24        28
+    NonREM2       0.92      0.52      0.67       427
+    NonREM3       0.57      0.98      0.72       259
+        REM       0.97      0.76      0.85       177
+       Wake       0.61      0.24      0.35       128
+
+avg/total       0.78      0.65      0.66      1019
+             precision    recall  f1-score   support
+
+    NonREM1       0.28      0.50      0.36        36
+    NonREM2       0.98      0.58      0.73       508
+    NonREM3       0.57      0.97      0.72       140
+        REM       0.64      0.51      0.57       231
+       Wake       0.45      0.88      0.59       134
+
+avg/total       0.76      0.65      0.66      1049
+             precision    recall  f1-score   support
+
+    NonREM1       0.14      0.83      0.24        66
+    NonREM2       0.82      0.44      0.57       441
+    NonREM3       0.00      0.00      0.00        44
+        REM       0.73      0.38      0.50       137
+       Wake       0.95      0.92      0.93       335
+
+avg/total       0.77      0.59      0.63      1023
+             precision    recall  f1-score   support
+
+    NonREM1       0.08      0.70      0.15        27
+    NonREM2       0.95      0.63      0.76       657
+    NonREM3       0.44      0.72      0.55        36
+        REM       0.65      0.79      0.71       157
+       Wake       0.93      0.78      0.85       192
+
+avg/total       0.87      0.68      0.74      1069
+             precision    recall  f1-score   support
+
+    NonREM1       0.12      0.98      0.22        56
+    NonREM2       0.98      0.44      0.61       538
+    NonREM3       0.14      0.81      0.25        16
+        REM       1.00      0.20      0.33       172
+       Wake       0.94      0.82      0.87       287
+
+avg/total       0.91      0.54      0.61      1069
+             precision    recall  f1-score   support
+
+    NonREM1       0.21      0.27      0.23       111
+    NonREM2       0.82      0.25      0.38       344
+    NonREM3       0.91      0.89      0.90       117
+        REM       0.96      0.73      0.83        97
+       Wake       0.50      0.80      0.62       384
+
+avg/total       0.66      0.57      0.55      1053
+             precision    recall  f1-score   support
+
+    NonREM1       0.14      0.98      0.24        47
+    NonREM2       0.93      0.62      0.75       497
+    NonREM3       0.87      0.83      0.85       118
+        REM       0.72      0.69      0.70       125
+       Wake       0.75      0.38      0.50       232
+
+avg/total       0.82      0.61      0.67      1019
+             precision    recall  f1-score   support
+
+    NonREM1       0.19      0.82      0.30        44
+    NonREM2       0.94      0.63      0.76       387
+    NonREM3       0.83      0.98      0.90       133
+        REM       0.83      0.62      0.71       110
+       Wake       0.93      0.88      0.90       365
+
+avg/total       0.88      0.77      0.80      1039
+             precision    recall  f1-score   support
+
+    NonREM1       0.30      0.88      0.44       119
+    NonREM2       0.78      0.34      0.47       344
+    NonREM3       0.63      0.66      0.64       134
+        REM       0.94      0.33      0.49       202
+       Wake       0.47      0.63      0.54       254
+
+avg/total       0.66      0.51      0.51      1053
+             precision    recall  f1-score   support
+
+    NonREM1       0.03      0.15      0.05        20
+    NonREM2       0.78      0.39      0.52       566
+    NonREM3       0.38      0.93      0.54       104
+        REM       0.78      0.60      0.68        75
+       Wake       0.59      0.79      0.67       194
+
+avg/total       0.68      0.54      0.56       959
+             precision    recall  f1-score   support
+
+    NonREM1       0.00      0.00      0.00         6
+    NonREM2       0.96      0.20      0.33       347
+    NonREM3       0.40      0.98      0.57       174
+        REM       0.85      0.95      0.90       252
+       Wake       0.85      0.85      0.85       180
+
+avg/total       0.80      0.66      0.62       959
+             precision    recall  f1-score   support
+
+    NonREM1       0.51      0.64      0.57       142
+    NonREM2       0.79      0.55      0.65       460
+    NonREM3       0.47      0.81      0.60       101
+        REM       0.50      0.97      0.66       177
+       Wake       1.00      0.28      0.44       187
+
+avg/total       0.71      0.61      0.60      1067
+             precision    recall  f1-score   support
+
+    NonREM1       0.08      0.76      0.14        34
+    NonREM2       0.82      0.56      0.66       526
+    NonREM3       0.89      0.60      0.72       162
+        REM       0.91      0.43      0.58       228
+       Wake       0.65      0.83      0.73       116
+
+avg/total       0.80      0.57      0.64      1066
+             precision    recall  f1-score   support
+
+    NonREM1       0.06      0.97      0.12        37
+    NonREM2       0.51      0.20      0.29       381
+    NonREM3       1.00      0.03      0.05        80
+        REM       1.00      0.08      0.16       224
+       Wake       0.69      0.49      0.57       117
+
+avg/total       0.69      0.23      0.26       839
+             precision    recall  f1-score   support
+
+    NonREM1       0.19      0.36      0.24        14
+    NonREM2       0.86      0.46      0.60       397
+    NonREM3       0.49      1.00      0.66       183
+        REM       0.95      0.87      0.91       191
+       Wake       0.89      0.88      0.88       212
+
+avg/total       0.81      0.72      0.72       997
+             precision    recall  f1-score   support
+
+    NonREM1       0.25      0.02      0.04        41
+    NonREM2       0.21      0.11      0.14       314
+    NonREM3       0.46      0.73      0.56       278
+        REM       1.00      0.23      0.38       124
+       Wake       0.52      0.79      0.63       232
+
+avg/total       0.45      0.46      0.40       989
+             precision    recall  f1-score   support
+
+    NonREM1       0.32      0.78      0.46        40
+    NonREM2       0.88      0.55      0.68       321
+    NonREM3       0.73      0.93      0.82       268
+        REM       0.98      0.63      0.77       136
+       Wake       0.60      0.78      0.68       134
+
+avg/total       0.78      0.72      0.72       899
+             precision    recall  f1-score   support
+
+    NonREM1       0.29      0.19      0.23        31
+    NonREM2       0.20      0.08      0.12       299
+    NonREM3       0.35      0.61      0.45       321
+        REM       0.42      0.40      0.41       189
+       Wake       0.62      0.49      0.55       179
+
+avg/total       0.37      0.38      0.35      1019
+             precision    recall  f1-score   support
+
+    NonREM1       0.06      0.50      0.10        30
+    NonREM2       0.90      0.47      0.61       678
+    NonREM3       0.00      0.00      0.00         0
+        REM       1.00      0.04      0.08       230
+       Wake       0.25      0.92      0.39       101
+
+avg/total       0.83      0.42      0.46      1039
+             precision    recall  f1-score   support
+
+    NonREM1       0.09      0.08      0.09        12
+    NonREM2       0.56      0.28      0.37       513
+    NonREM3       0.22      1.00      0.37       113
+        REM       0.99      0.43      0.60       214
+       Wake       0.74      0.68      0.71       167
+
+avg/total       0.64      0.45      0.47      1019
+             precision    recall  f1-score   support
+
+    NonREM1       0.09      0.67      0.16        48
+    NonREM2       0.85      0.44      0.58       409
+    NonREM3       0.75      0.83      0.79       133
+        REM       0.56      0.82      0.66       137
+       Wake       0.92      0.39      0.55       342
+
+avg/total       0.79      0.53      0.59      1069
+             precision    recall  f1-score   support
+
+    NonREM1       0.32      0.86      0.47        28
+    NonREM2       0.93      0.62      0.75       472
+    NonREM3       0.54      1.00      0.70       101
+        REM       0.70      0.81      0.75       218
+       Wake       0.95      0.90      0.93       250
+
+avg/total       0.83      0.77      0.78      1069
+             precision    recall  f1-score   support
+
+    NonREM1       0.12      0.49      0.19        41
+    NonREM2       0.90      0.58      0.71       437
+    NonREM3       0.97      0.68      0.80       200
+        REM       0.93      0.75      0.83       215
+       Wake       0.53      0.91      0.67       176
+
+avg/total       0.83      0.68      0.72      1069
+             precision    recall  f1-score   support
+
+    NonREM1       0.38      0.75      0.51        85
+    NonREM2       0.92      0.66      0.77       480
+    NonREM3       0.39      0.99      0.56        78
+        REM       0.91      0.76      0.83       147
+       Wake       0.93      0.80      0.86       279
+
+avg/total       0.84      0.74      0.76      1069
+             precision    recall  f1-score   support
+
+    NonREM1       0.00      0.00      0.00        50
+    NonREM2       0.50      0.44      0.47       248
+    NonREM3       0.57      0.99      0.72       204
+        REM       0.88      0.76      0.82       181
+       Wake       0.68      0.30      0.42       105
+
+avg/total       0.60      0.61      0.58       788
+             precision    recall  f1-score   support
+
+    NonREM1       0.10      0.67      0.17        15
+    NonREM2       0.87      0.76      0.81       488
+    NonREM3       0.50      0.98      0.66       124
+        REM       0.99      0.55      0.70       249
+       Wake       0.76      0.59      0.66       143
+
+avg/total       0.83      0.71      0.74      1019
+             precision    recall  f1-score   support
+
+    NonREM1       0.09      0.55      0.16        20
+    NonREM2       0.94      0.46      0.62       631
+    NonREM3       0.03      1.00      0.06         8
+        REM       0.78      0.85      0.81       216
+       Wake       0.83      0.24      0.37        84
+
+avg/total       0.87      0.53      0.63       959
+             precision    recall  f1-score   support
+
+    NonREM1       0.05      0.26      0.08        35
+    NonREM2       0.84      0.69      0.76       511
+    NonREM3       0.02      1.00      0.05         3
+        REM       0.74      0.86      0.80       169
+       Wake       0.98      0.31      0.47       301
+
+avg/total       0.84      0.59      0.65      1019
+             precision    recall  f1-score   support
+
+    NonREM1       0.26      0.62      0.36        40
+    NonREM2       0.91      0.34      0.49       340
+    NonREM3       0.54      0.97      0.69       197
+        REM       0.79      0.85      0.82       154
+       Wake       0.85      0.78      0.82       198
+
+avg/total       0.77      0.67      0.65       929
+             precision    recall  f1-score   support
+
+    NonREM1       0.89      0.28      0.43        60
+    NonREM2       0.39      0.22      0.28       398
+    NonREM3       0.46      0.94      0.62       252
+        REM       1.00      0.53      0.69       147
+       Wake       0.49      0.58      0.53       162
+
+avg/total       0.54      0.50      0.47      1019
+             precision    recall  f1-score   support
+
+    NonREM1       0.02      0.57      0.04         7
+    NonREM2       0.71      0.62      0.66       446
+    NonREM3       0.55      0.32      0.41       152
+        REM       0.09      0.02      0.03       176
+       Wake       0.66      0.82      0.73       272
+
+avg/total       0.56      0.53      0.53      1053
+             precision    recall  f1-score   support
+
+    NonREM1       0.25      0.74      0.38       148
+    NonREM2       0.76      0.45      0.57       425
+    NonREM3       0.00      0.00      0.00         0
+        REM       0.00      0.00      0.00       188
+       Wake       0.60      0.65      0.62       308
+
+avg/total       0.51      0.47      0.46      1069
+             precision    recall  f1-score   support
+
+    NonREM1       0.05      0.36      0.09        11
+    NonREM2       0.87      0.65      0.74       442
+    NonREM3       0.51      0.99      0.67       116
+        REM       0.94      0.60      0.74       224
+       Wake       0.89      0.94      0.92       231
+
+avg/total       0.84      0.74      0.76      1024
+             precision    recall  f1-score   support
+
+    NonREM1       0.37      0.59      0.46        49
+    NonREM2       0.85      0.72      0.78       406
+    NonREM3       0.58      1.00      0.73       141
+        REM       0.99      0.74      0.85       180
+       Wake       0.97      0.85      0.90       208
+
+avg/total       0.84      0.79      0.80       984
+             precision    recall  f1-score   support
+
+    NonREM1       0.13      0.97      0.24        33
+    NonREM2       0.96      0.49      0.65       393
+    NonREM3       0.90      0.98      0.94       198
+        REM       0.97      0.70      0.81       182
+       Wake       0.75      0.86      0.80       153
+
+avg/total       0.89      0.70      0.75       959
+             precision    recall  f1-score   support
+
+    NonREM1       0.67      0.08      0.15        97
+    NonREM2       0.43      0.17      0.24       397
+    NonREM3       0.40      0.74      0.52       294
+        REM       0.28      0.17      0.21       162
+       Wake       0.45      0.97      0.61       117
+
+avg/total       0.42      0.41      0.34      1067
+             precision    recall  f1-score   support
+
+    NonREM1       0.42      0.50      0.45        10
+    NonREM2       0.78      0.52      0.62       316
+    NonREM3       0.75      0.94      0.83       367
+        REM       0.91      0.73      0.81       134
+       Wake       0.69      0.95      0.80        96
+
+avg/total       0.77      0.76      0.75       923
+             precision    recall  f1-score   support
+
+    NonREM1       0.15      0.40      0.21        70
+    NonREM2       0.90      0.67      0.77       496
+    NonREM3       0.31      0.27      0.29        15
+        REM       0.43      0.88      0.58       168
+       Wake       0.95      0.18      0.30       210
+
+avg/total       0.77      0.57      0.59       959
+             precision    recall  f1-score   support
+
+    NonREM1       0.22      0.42      0.29        43
+    NonREM2       0.80      0.31      0.44       562
+    NonREM3       0.15      0.97      0.25        60
+        REM       0.96      0.67      0.79       212
+       Wake       0.71      0.85      0.78       192
+
+avg/total       0.76      0.52      0.56      1069
